@@ -7,7 +7,7 @@ import plotly.express as px
 from streamlit_autorefresh import st_autorefresh
 
 # 1) Re‑execute this script every 5 seconds
-st_autorefresh(interval=60000, limit=None, key="datarefresher")
+st_autorefresh(interval=3000, limit=None, key="datarefresher")
 
 # === Load Models & Encoders ===
 A_DIR = "model_a_residual_life"
