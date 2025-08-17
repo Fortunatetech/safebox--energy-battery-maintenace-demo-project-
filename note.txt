@@ -1,0 +1,48 @@
+### Dashboard Deliverables 
+
+### Dashboard Overview 
+1. Total number of Batteries Monitored 
+2. chemistry
+Batteries Currently Charging
+Line Chart Average Daily Current
+Line Chart Average Daily Voltage
+Line Chart Total Energy Delivered Per Day
+Number of Charge Cycles Completed Per Day
+Histogram of Charge Durations (Distribution Overview)
+Source Variation (Comparative Analysis)
+Slect battery_id for Detailed Inspection. 
+
+### Battery Drilled Down 
+
+Battery ID 
+Battery Model/Type/Chemistry
+Total Charge Cycles
+Last Full Charge
+Voltage & Current Profile (Dual-Axis Line Chart)
+Temperature & Resistance Profile (Line Chart)
+Time to Full Charge History (Line or Scatter Plot)
+Max Temperature Per Cycle History (Line Plot)
+Detailed Cycle History (Table)
+
+### main
+
+1. Predicted Residual Life 
+2, Battery Life Gauge: 35.4% Remaining with a moderate color coding 
+3. Latest Impedance 1Hz, Temp Delta, Cycle Count
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

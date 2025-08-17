@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn 
+ipykernel
+joblib
+plotly
+streamlit_autorefresh
+lightgbm
